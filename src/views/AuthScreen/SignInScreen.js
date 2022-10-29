@@ -62,7 +62,7 @@ const SignInScreen = ({ navigation }) => {
           </Center>
           <Box>
             <Heading size="xl" fontWeight={400} color="#024580">
-              Sign In
+              Sign Ins
             </Heading>
             <Text fontSize="sm">
               Sign in to view and complete work orders.

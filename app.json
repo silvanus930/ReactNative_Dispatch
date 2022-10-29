@@ -1,0 +1,5 @@
+{
+  "name": "dispatch",
+  "displayName": "dispatch",
+  "plugins": ["react-native-compressor"]
+}
